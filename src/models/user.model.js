@@ -14,18 +14,3 @@ module.exports = mongoose.model("User", userSchema);
 
 
 
-//User
-
-//↓
-
-//Name
-
-//Email
-
-//Password
-
-//↓
-
-//MongoDB
-
-//Ye database ka format batata hai.

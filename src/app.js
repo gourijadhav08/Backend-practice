@@ -12,13 +12,3 @@ app.use("/auth", authRoutes);
 module.exports=app;
 
 
-
-//Express Create
-
-//↓
-
-//JSON Read
-
-//↓
-
-//Routes Connect

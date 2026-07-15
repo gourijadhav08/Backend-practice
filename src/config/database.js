@@ -9,6 +9,3 @@ async function connectDB() {
 
 module.exports = connectDB
 
-//Kaam
-
-//MongoDB Connect
